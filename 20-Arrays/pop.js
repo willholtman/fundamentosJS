@@ -1,3 +1,4 @@
+// push - remove um elemento no final do Array
 let nomes = ['joao', 'ana', 'carlos'];
 console.log(nomes);
 nomes.pop();

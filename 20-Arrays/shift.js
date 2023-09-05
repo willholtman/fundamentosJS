@@ -1,4 +1,4 @@
-// push - retira um valor do inicio do Array
+// shift - retira um valor do inicio do Array
 let nomes = ['joao', 'ana', 'carlos'];
 console.log(nomes);
 nomes.shift();
